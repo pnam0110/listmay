@@ -1,0 +1,23 @@
+table  {
+    width: 100%;
+    border: 1px solid ;
+    border-right: none;
+    border-left: none;
+}
+td {
+    margin: 10px;
+    border: 1px solid ;
+    
+    border-left: none;
+}
+
+img    {
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+}
+.stt    {
+    width: 50px;
+    text-align: center;
+    border: 1px solid;
+}
